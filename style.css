@@ -1,0 +1,32 @@
+body {
+	background-image: url("https://i.imgur.com/Uoi47m1.png");
+}
+
+.about {
+    color: white;
+}
+
+#aboutme {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+.portfolio {
+    color: white;
+}
+
+.contact {
+    color: white;
+}
+
+/* contact form font color = black */
+.col-form-label {
+    color: black;
+}
+
+.labelcolor {
+    color: black;
+}
