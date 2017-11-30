@@ -1,25 +1,25 @@
 body {
-	background-image: url("https://i.imgur.com/Uoi47m1.png");
+	background-image: url("images/doodgles.png");
 }
 
 .about {
-    color: white;
+    color: black;
 }
 
 #aboutme {
-    color: white;
+    color: black;
 }
 
 h4 {
-    color: white;
+    color: black;
 }
 
 .portfolio {
-    color: white;
+    color: black;
 }
 
 .contact {
-    color: white;
+    color: black;
 }
 
 /* contact form font color = black */
@@ -37,6 +37,15 @@ h4 {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #c0bfbe;
+    background-color: #3d454d;
     color: black;
     text-align: center;
+}
+
+.nav-link {
+	float: right;
+}
+
+.navbar-brand {
+	font-size: 34px;
+}
